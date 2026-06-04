@@ -25,8 +25,6 @@
   
  
   <g id="terminal-part">
-    <!-- Command prompt line - repositioned higher -->
-    <text x="20" y="40" font-family="monospace" font-size="14" fill="#50fa7b">bearroleplay@github:~$ <tspan font-family="monospace" font-size="14" fill="#f8f8f2">GET profile BearRolePlay --verbose</tspan></text>
     
    
   </g>
